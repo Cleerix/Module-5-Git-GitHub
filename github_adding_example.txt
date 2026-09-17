@@ -22,3 +22,14 @@
 # then u need git commit -m "comment" again
 
 # and then git push to delete it also in gitHub
+
+# rename with mv in working directory
+# mv one.py two.py (old name new name)
+
+# rename staged files 
+# git mv one.py two.py
+
+# and then you have to commit it again
+# git commit -m "comment"
+
+# git push (to get it to gitHub)
