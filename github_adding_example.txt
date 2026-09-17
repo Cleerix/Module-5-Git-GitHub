@@ -1,0 +1,24 @@
+# create in working directory in git bash a new file with touch or
+# with content with echo "text" > <file_name> 
+# to add content in next line with >>
+
+# git add <file_name> to add it to the staging area
+
+# git status to see the actual status of the files
+
+# git commit (if u want to add comments manually in the default editor)
+# git commit -m "comment" short cut
+
+# git push to get it to gitHub
+
+
+## for removing files
+
+# git ls-files shows all files, which are saved in the staging area
+# for rm <file_name> just deltes it in the working directory
+
+# git rm <file_name> deletes it in wd and staging area
+
+# then u need git commit -m "comment" again
+
+# and then git push to delete it also in gitHub
